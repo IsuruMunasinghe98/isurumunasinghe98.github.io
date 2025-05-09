@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Isuru Munasinghe",
+    "email": "isuru.munasinghe1998@gmail.com",
+    "phone": "+94 70 498 5116",
+    "website": "https://isurumunasinghe98.github.io/",
+    "summary": "I am a researcher in Robotics and Artificial Intelligence, having graduated with first-class honors in Electronic and Telecommunication Engineering.",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "12500",
+      "city": "Panadura",
+      "countryCode": "Sri Lanka",
       "region": ""
     },
     "profiles": [
