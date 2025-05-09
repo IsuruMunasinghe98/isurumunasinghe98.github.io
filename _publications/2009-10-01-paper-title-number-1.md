@@ -3,7 +3,8 @@ title: "A Comprehensive Review of UAV-UGV Collaboration: Advancements and Challe
 collection: publications
 category: manuscripts
 permalink: /publication/jsan-2024
-venue: 'Journal of Sensor and Actuator Networks (JSAN) 2024'
+date: 2024-11-28
+venue: 'Journal of Sensor and Actuator Networks (JSAN)'
 paperurl: 'https://www.mdpi.com/2224-2708/13/6/81'
 bibtexurl: 'http://isurumunasinghe98.github.io/files/jsan-v13-i06_20250509.bib'
 citation: 'Isuru Munasinghe, Asanka Perera, and Ravinesh C. Deo, &quot;A Comprehensive Review of UAV-UGV Collaboration: Advancements and Challenges&quot, Journal of Sensor and Actuator Networks, vol. 13, no. 6, p. 81, 2024. https://doi.org/10.3390/jsan13060081'
