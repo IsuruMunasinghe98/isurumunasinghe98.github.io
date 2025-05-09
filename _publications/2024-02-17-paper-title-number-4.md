@@ -3,10 +3,9 @@ title: "Design and Implementation of a Semi-Autonomous Robotic System for System
 collection: publications
 category: conferences
 permalink: /publication/iccre-2024
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-05-14
 venue: 'Osaka University, Osaka, Japan'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10589856'
+paperurl: 'https://ieeexplore.ieee.org/document/10589856'
 citation: 'Isuru Munasinghe, Vishva Vijenayake, Sahan Viduranga, Yomali Lokugama, Peshala Jayasekara, &quot;Design and Implementation of a Semi-Autonomous Robotic System for Systematic Solar Panel Cleaning.&quot, 9th International Conference on Control and Robotics Engineering (ICCRE), Osaka, Japan, 2024, pp. 61-67, doi: 10.1109/ICCRE61448.2024.10589856.'
 ---
 
