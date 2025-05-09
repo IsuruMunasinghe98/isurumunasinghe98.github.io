@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/ijsem-2025
 date: 2025-01-01
-venue: International Journal of Science, Engineering and Management (IJSEM) 2025
+venue: International Journal of Science, Engineering and Management (IJSEM)
 paperurl: 'https://dx.doi.org/10.36647/IJSEM/12.01.A001'
 citation: 'I. Munasinghe, V. Vijenayake, and P. Jayasekara, (2025) International Journal of Science, Engineering and Management (IJSEM), 12(1), 9–14. https://doi.org/10.36647/IJSEM/12.01.A001'
 ---
