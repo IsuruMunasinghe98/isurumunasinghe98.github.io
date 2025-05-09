@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/iccre-2024
 date: 2024-05-14
-venue: '9th International Conference on Control and Robotics Engineering (ICCRE)'
+venue: '9th International Conference on Control and Robotics Engineering (ICCRE) 2024'
 paperurl: 'https://ieeexplore.ieee.org/document/10589856'
 citation: 'Isuru Munasinghe, Vishva Vijenayake, Sahan Viduranga, Yomali Lokugama, Peshala Jayasekara, &quot;Design and Implementation of a Semi-Autonomous Robotic System for Systematic Solar Panel Cleaning.&quot, 9th International Conference on Control and Robotics Engineering (ICCRE), Osaka, Japan, 2024, pp. 61-67, http://dx.doi.org/10.1109/ICCRE61448.2024.10589856'
 ---
