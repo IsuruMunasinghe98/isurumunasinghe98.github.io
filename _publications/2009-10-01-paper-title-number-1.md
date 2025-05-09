@@ -3,7 +3,6 @@ title: "A Comprehensive Review of UAV-UGV Collaboration: Advancements and Challe
 collection: publications
 category: manuscripts
 permalink: /publication/jsan-2024
-date: 2009-10-01
 venue: 'Journal of Sensor and Actuator Networks (JSAN) 2024'
 paperurl: 'https://www.mdpi.com/2224-2708/13/6/81'
 bibtexurl: 'http://isurumunasinghe98.github.io/files/jsan-v13-i06_20250509.bib'
