@@ -9,12 +9,3 @@ location: "Sri Lanka"
 ---
 
 Conducted instructional sessions for Module EN2091 – Laboratory Practices and Projects, focusing on laboratory experiments in Analog Electronics, Digital Electronics, and Fundamentals of Computer Organization and Design.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
