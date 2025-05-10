@@ -21,7 +21,7 @@ main:
     url: /teaching/    
         
   - title: "Research and Projects"
-    url: /year-archive/
+    url: /projects/
     
   - title: "CV"
     url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Other"
-    url: /markdown/
+    url: /other/
