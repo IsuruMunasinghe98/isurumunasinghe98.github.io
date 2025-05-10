@@ -7,3 +7,67 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+<div style="max-width: 1000px; margin: auto; padding: 20px; font-family: Arial, sans-serif;">
+
+  <!-- Two images in one row with external Github link -->
+  <div style="margin-bottom: 30px; border-bottom: 1px solid #ccc; padding-bottom: 20px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
+      <img src="/images/500x300.png" alt="Project 2 Image A" style="flex: 1; min-width: 200px; max-width: 48%; border-radius: 8px; height: auto;">
+      <img src="/images/500x300.png" alt="Project 2 Image B" style="flex: 1; min-width: 200px; max-width: 48%; border-radius: 8px; height: auto;">
+    </div>
+    <div>
+      <h3 style="margin: 0 0 10px;">Semi-Autonomous Solar Panel Cleaning Robot</h3>
+      <p style="margin: 0 0 10px;">The semi-autonomous solar panel cleaning robot was designed and implemented to address efficiency challenges in maintaining solar photovoltaic (PV) systems. The system employs advanced edge detection algorithms using ultrasonic sensors and vision-based technologies to navigate solar panel arrays. This robot can autonomously perform dry and wet cleaning, ensuring optimal performance regardless of environmental conditions. It features a robust localization system based on bus-bar detection, allowing precise navigation and ensuring the cleaning process is efficient and damage-free. The use of ultrasonic sensors helps the robot transition smoothly between panels, preventing it from falling off or causing damage during operation​.</p>
+      <p style="margin: 0 0 10px;">The design incorporates two Raspberry Pi 3B+ boards: one dedicated to control operations and the other to image processing tasks, ensuring seamless integration of hardware and software components. The robot uses a tracked-wheel mechanism to navigate on solar panels tilted up to 20°, and a mechanical roller brush for cleaning. Enhancing usability, the system is controlled via a mobile app, offering both manual and autonomous operation modes. Additionally, the robot can perform continuous cleaning for 75 minutes on a single charge, efficiently covering a large area of up to 17 square meters in each session​. </p>
+      <p style="margin: 0 0 10px;">Key improvements have been made to ensure the accuracy of the robot’s movements, such as the implementation of three parallel Kalman filters to correct gyroscope drift during orientation estimation. Furthermore, a refined water supply mechanism ensures that wet cleaning can be performed without adding excessive weight to the robot. By leveraging advanced localization techniques and integrated mobile control, this robot provides a significant enhancement to solar panel maintenance by reducing the manual effort required and increasing the efficiency of cleaning operations in various environments​. </p>
+      <a href="https://gitlab.com/yourusername/project1" target="_blank" style="color: #007BFF; text-decoration: none;">GitLab Repository</a>
+    </div>
+  </div>
+
+   <!-- One image with GitLab link -->
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; border-bottom: 1px solid #ccc; padding-bottom: 20px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0 0 10px;">System Bus Design</h3>
+      <p style="margin: 0 0 10px;">The system bus design involved the creation of a communication framework that connects two masters and three slaves, prioritizing master communication based on urgency. This was achieved through a synchronous arbitration mechanism that ensures only one master controls the bus at any given time, optimizing communication efficiency. The system design includes both internal and external bus architectures, with the internal bus handling communication between masters and slaves and the external bus facilitating data transfer with another FPGA. The bus supports read/write operations and burst transactions, enabling efficient data handling over a 1-bit wide serial communication channel.</p>
+      <p style="margin: 0 0 10px;">An arbiter was designed to grant bus access based on master priority, with a state machine that handles communication requests and grants access accordingly. The entire system was implemented and tested on a Digilent Zybo FPGA development board, validating its functionality through simulation using Verilog test benches.</p>
+      <a href="https://github.com/IsuruMunasinghe98/System_BUS_Design" target="_blank" style="color: #007BFF; text-decoration: none;">GitLab Repository</a>
+    </div>
+  </div>
+
+  <!-- One image with GitLab link -->
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; border-bottom: 1px solid #ccc; padding-bottom: 20px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0 0 10px;">500W LLC Converter and 5kW Bi-directional Charger</h3>
+      <p style="margin: 0 0 10px;">A 500W 72V to 14.5V DC-DC converter was designed and tested for VEGA ETX to enable the charging of a 12V battery from a 72V battery pack. This converter was developed to replace an earlier 250W imported version, which had limitations in power capacity and lacked sufficient protection features. The new converter utilizes LLC topology, selected for its high efficiency, soft switching capabilities, and reduced electromagnetic interference (EMI). Following the design and simulation phase, the converter was implemented and tested, achieving improved performance and efficiency for integration with the VEGA ETX electric three-wheeler.</p>
+      <p style="margin: 0 0 10px;">Additionally, a 5kW 400V to 48V bi-directional charger circuit was developed for a hybrid solar inverter system. This charger enables bi-directional power transfer, allowing a 48V battery to be charged from a 400V source and, conversely, boosting the battery voltage to 400V during discharge. The design involved the implementation of a full-bridge converter topology, incorporating advanced protection mechanisms for overvoltage and current control. The charger was rigorously simulated and tested to ensure its optimal performance within the hybrid inverter system​.</p>
+      <a href="https://example.com/research-paper" target="_blank" style="color: #007BFF; text-decoration: none;">Research Paper</a>
+    </div>
+  </div>
+
+  <!-- One image with GitLab link -->
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px; border-bottom: 1px solid #ccc; padding-bottom: 20px;">
+    <div style="flex: 1;">
+      <h3 style="margin: 0 0 10px;">Smart Water Condition Monitoring System</h3>
+      <p style="margin: 0 0 10px;">The smart water condition monitoring system is a solar-powered solution designed to be installed near water reservoirs. It continuously monitors the concentration of harmful chemicals such as lead, mercury, and ammonia, as well as pH levels. When toxic chemical concentrations deviate from safe thresholds, the system immediately notifies the relevant authorities, along with the exact location, enabling swift action. The system provides real-time monitoring, with users able to access data by entering specific locations, and it offers analytical tools, including graphical representations, to help analyze trends and ensure water safety.</p>
+      <p style="margin: 0 0 10px;">This innovative project earned us the 2nd Runners-Up position in the SPARK Challenge 2021/22, recognizing the system’s potential to significantly enhance environmental monitoring and public health protection.</p>
+      <a href="https://gitlab.com/yourusername/project1" target="_blank" style="color: #007BFF; text-decoration: none;">GitLab Repository</a>
+    </div>
+  </div>
+
+
+  
+
+<!--   <!-- One image, no links -->
+  <div style="display: flex; flex-wrap: wrap; margin-bottom: 30px;">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="project3.jpg" alt="Project 3" style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
+    <div style="flex: 1;">
+      <h3 style="margin: 0 0 10px;">UAV-UGV Cooperative Navigation System</h3>
+      <p style="margin: 0;">Implemented a hybrid aerial-ground robot coordination system where UAVs aid UGVs in navigating difficult terrains through aerial mapping and lift support.</p>
+    </div>
+  </div> -->
+
+</div>
+
+
