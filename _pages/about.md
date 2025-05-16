@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+I am a researcher with a strong academic background in Electronic and Telecommunication Engineering, having graduated with First Class Honours from the University of Moratuwa, Sri Lanka, maintaining a cumulative GPA of 3.94/4.2. My academic journey has been marked by a consistent commitment to excellence, as demonstrated by multiple Dean’s List awards and national-level recognitions. Over the years, I have developed a deep research interest in Robotics, Mechatronics, Artificial Intelligence, and UAV-UGV collaboration. I am particularly interested in how intelligent autonomous systems can be developed to operate cooperatively in real-time within complex and unstructured environments. This has led me to explore topics such as aerial-ground coordination, autonomous navigation, path planning, and multi-robotic systems.
+
+Currently, I work as a Software Engineer at Axiata Digital Labs, where I am engaged in the design and implementation of software solutions for IoT and telecommunications platforms using modern microservices architecture. This role has enabled me to combine my research interests with practical, real-world engineering experience. My long-term research vision is to advance the field of collaborative robotic systems, particularly focusing on the integration of aerial and ground vehicles to enhance situational awareness, task execution, and autonomy in GPS-denied or mission-critical environments. I aim to contribute to this domain by developing novel frameworks and algorithms that enable robust, intelligent, and scalable robotic cooperation for applications in areas such as defense, disaster response, and environmental monitoring.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -49,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
