@@ -1,16 +1,15 @@
 ---
-title: "Design and Implementation of a Semi-Autonomous Robotic System for Systematic Solar Panel Cleaning"
+title: "Design and Performance Optimization of a Low-Power Half-Bridge LLC Resonant Converter Using GaN FETs"
 collection: publications
 category: conferences
-permalink: /publication/iccre-2024
-date: 2024-05-14
-venue: '9th International Conference on Control and Robotics Engineering (ICCRE)'
-paperurl: 'https://ieeexplore.ieee.org/document/10589856'
-citation: 'Isuru Munasinghe, Vishva Vijenayake, Sahan Viduranga, Yomali Lokugama, Peshala Jayasekara, &quot;Design and Implementation of a Semi-Autonomous Robotic System for Systematic Solar Panel Cleaning.&quot, 9th International Conference on Control and Robotics Engineering (ICCRE), Osaka, Japan, 2024, pp. 61-67, http://dx.doi.org/10.1109/ICCRE61448.2024.10589856'
-image: /images/bus-bar.PNG
+permalink: /publication/iceeng-2025
+date: 2025-05-12
+venue: '15th International Conference on Electrical Engineering (ICEENG)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11031338'
+citation: 'Isuru Munasinghe, Ashen Rodrigo, "Design and Performance Optimization of a Low-Power Half-Bridge LLC Resonant Converter Using GaN FETs," 15th International Conference on Electrical Engineering (ICEENG), Cairo, Egypt, 2025, pp. 1-6, http://dx.doi.org/10.1109/ICEENG64546.2025.11031338'
+image: /images/iceeng-graph.PNG
 ---
 
-Solar photovoltaic (PV) systems have become a trend as a sustainable energy source on a global scale. However, the dirt accumulated on solar panels often reduces their efficiency, considerably. Existing cleaning methods have limitations such as requiring manual labour, low efficiency, limited to single cleaning method or single operational mode. As a solution, this research study describes the design and implementation of a semi-autonomous solar panel cleaning robot for both dry and wet cleaning. The robot can autonomously navigate on solar panels safely, or user can manually control it using a mobile app. The robot is capable of functioning for around 75 minutes on a single charge on solar panels tilted up to 20°, facilitated by image processing algorithms achieving an accuracy surpassing 96%. The orientation estimation is accomplished through the implementation of three parallel Kalman filters running on an embedded system. Experiments and simulations conducted using the implemented mobile robot show the effectiveness of the proposed robot design.
+This paper presents the design, implementation, and experimental validation of a cost-effective 500W half-bridge LLC resonant DC-DC converter optimized for high-efficiency, low-power applications. The converter utilizes Gallium Nitride (GaN) FETs, achieving a peak efficiency of around 90% to meet the increasing demand for compact and reliable power conversion in the renewable energy, industrial automation, and telecommunication sectors. It operates with a nominal input voltage of 72V (in a range of 63 to 75V) and delivers a 14.5V/40A output. The resonant tank design methodology ensures exclusive inductive region operation, enabling zero voltage switching (ZVS) under all load conditions to minimize switching losses, electromagnetic interference (EMI), and device stress. Experimental results demonstrate a 1–10% efficiency improvement using GaN FETs over traditional MOSFETs, particularly at higher power levels. The design incorporates an adaptive protection framework that includes configurable over-voltage, under-voltage, and over-current precautions to ensure resilience under transient and fault conditions. We confirm stable operation at a 100kHz switching frequency through comprehensive load-varying tests, maintaining high efficiency across different load conditions.
 
 ---
-
